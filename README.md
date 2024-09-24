@@ -1,3 +1,17 @@
+# Hi welcome to this simple number pad component repo
+
+## Tech stack
+
+- [Remix](https://remix.run/)
+- [Tailwind](https://tailwindcss.com/)
+- [Lucide](https://lucide.dev/)
+
+`npm install`
+
+Feel free to copy paste
+
+---
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
