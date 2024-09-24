@@ -1,5 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
 import { SimpleNumberInput } from "~/components/NumberInput";
+import { TagsInput } from "~/components/TagsInput";
 
 export const meta: MetaFunction = () => {
   return [
@@ -10,8 +11,13 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="h-screen w-full flex justify-center items-center bg-gray-300">
-      <SimpleNumberInput />
+    <div className="h-screen w-full flex flex-col justify-center items-center bg-gray-300 gap-3">
+      <div>
+        <SimpleNumberInput />
+      </div>
+      <div className="max-w-64">
+        <TagsInput className="border-black" />
+      </div>
     </div>
   );
 }

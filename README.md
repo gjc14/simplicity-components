@@ -4,6 +4,7 @@
 
 - [Remix](https://remix.run/)
 - [Tailwind](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com)
 - [Lucide](https://lucide.dev/)
 
 `npm install`

@@ -1,8 +1,14 @@
 import { Minus, Plus } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
-export function SimpleNumberInput({}: {}) {
-  const [qty, setQty] = useState(1);
+export function SimpleNumberInput({
+  value = 1,
+  onChange,
+}: {
+  value?: number;
+  onChange?: (value: number) => void;
+}) {
+  const [qty, setQty] = useState(value);
 
   // handle qty change
   const updateQty = (quantity: number | string) => {
@@ -19,6 +25,11 @@ export function SimpleNumberInput({}: {}) {
     }
     // And other validation
   };
+
+  useEffect(() => {
+    onChange && onChange(qty);
+  }, [qty]);
+
   return (
     <div className="relative flex items-center w-28 h-8 gap-1">
       <button
