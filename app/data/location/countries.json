@@ -1,0 +1,3920 @@
+[
+    {
+        "commonNames": "Aruba",
+        "nativeCommonNames": ["Aruba", "Aruba"],
+        "cca3": "ABW",
+        "currencies": [
+            {
+                "name": "Aruban florin",
+                "symbol": "ƒ"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Dutch", "Papiamento"],
+        "flag": "🇦🇼",
+        "callingCodes": "+297"
+    },
+    {
+        "commonNames": "Afghanistan",
+        "nativeCommonNames": ["افغانستان", "افغانستان", "Owganystan"],
+        "cca3": "AFG",
+        "currencies": [
+            {
+                "name": "Afghan afghani",
+                "symbol": "؋"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Dari", "Pashto", "Turkmen"],
+        "flag": "🇦🇫",
+        "callingCodes": "+93"
+    },
+    {
+        "commonNames": "Angola",
+        "nativeCommonNames": ["Angola"],
+        "cca3": "AGO",
+        "currencies": [
+            {
+                "name": "Angolan kwanza",
+                "symbol": "Kz"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Portuguese"],
+        "flag": "🇦🇴",
+        "callingCodes": "+244"
+    },
+    {
+        "commonNames": "Anguilla",
+        "nativeCommonNames": ["Anguilla"],
+        "cca3": "AIA",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇦🇮",
+        "callingCodes": "+1264"
+    },
+    {
+        "commonNames": "Åland Islands",
+        "nativeCommonNames": ["Åland"],
+        "cca3": "ALA",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Swedish"],
+        "flag": "🇦🇽",
+        "callingCodes": "+35818"
+    },
+    {
+        "commonNames": "Albania",
+        "nativeCommonNames": ["Shqipëria"],
+        "cca3": "ALB",
+        "currencies": [
+            {
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Albanian"],
+        "flag": "🇦🇱",
+        "callingCodes": "+355"
+    },
+    {
+        "commonNames": "Andorra",
+        "nativeCommonNames": ["Andorra"],
+        "cca3": "AND",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Catalan"],
+        "flag": "🇦🇩",
+        "callingCodes": "+376"
+    },
+    {
+        "commonNames": "United Arab Emirates",
+        "nativeCommonNames": ["دولة الإمارات العربية المتحدة"],
+        "cca3": "ARE",
+        "currencies": [
+            {
+                "name": "United Arab Emirates dirham",
+                "symbol": "د.إ"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇦🇪",
+        "callingCodes": "+971"
+    },
+    {
+        "commonNames": "Argentina",
+        "nativeCommonNames": ["Argentina", "Argentina"],
+        "cca3": "ARG",
+        "currencies": [
+            {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Guaraní", "Spanish"],
+        "flag": "🇦🇷",
+        "callingCodes": "+54"
+    },
+    {
+        "commonNames": "Armenia",
+        "nativeCommonNames": ["Հայաստան"],
+        "cca3": "ARM",
+        "currencies": [
+            {
+                "name": "Armenian dram",
+                "symbol": "֏"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Armenian"],
+        "flag": "🇦🇲",
+        "callingCodes": "+374"
+    },
+    {
+        "commonNames": "American Samoa",
+        "nativeCommonNames": ["American Samoa", "Sāmoa Amelika"],
+        "cca3": "ASM",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Samoan"],
+        "flag": "🇦🇸",
+        "callingCodes": "+1684"
+    },
+    {
+        "commonNames": "Antarctica",
+        "nativeCommonNames": [],
+        "cca3": "ATA",
+        "currencies": [],
+        "region": "Antarctic",
+        "languages": [],
+        "flag": "🇦🇶",
+        "callingCodes": ""
+    },
+    {
+        "commonNames": "French Southern and Antarctic Lands",
+        "nativeCommonNames": ["Terres australes et antarctiques françaises"],
+        "cca3": "ATF",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Antarctic",
+        "languages": ["French"],
+        "flag": "🇹🇫",
+        "callingCodes": "+262"
+    },
+    {
+        "commonNames": "Antigua and Barbuda",
+        "nativeCommonNames": ["Antigua and Barbuda"],
+        "cca3": "ATG",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇦🇬",
+        "callingCodes": "+1268"
+    },
+    {
+        "commonNames": "Australia",
+        "nativeCommonNames": ["Australia"],
+        "cca3": "AUS",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇦🇺",
+        "callingCodes": "+61"
+    },
+    {
+        "commonNames": "Austria",
+        "nativeCommonNames": ["Österreich"],
+        "cca3": "AUT",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Austro-Bavarian German"],
+        "flag": "🇦🇹",
+        "callingCodes": "+43"
+    },
+    {
+        "commonNames": "Azerbaijan",
+        "nativeCommonNames": ["Azərbaycan", "Азербайджан"],
+        "cca3": "AZE",
+        "currencies": [
+            {
+                "name": "Azerbaijani manat",
+                "symbol": "₼"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Azerbaijani", "Russian"],
+        "flag": "🇦🇿",
+        "callingCodes": "+994"
+    },
+    {
+        "commonNames": "Burundi",
+        "nativeCommonNames": ["Burundi", "Uburundi"],
+        "cca3": "BDI",
+        "currencies": [
+            {
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Kirundi"],
+        "flag": "🇧🇮",
+        "callingCodes": "+257"
+    },
+    {
+        "commonNames": "Belgium",
+        "nativeCommonNames": ["Belgien", "Belgique", "België"],
+        "cca3": "BEL",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["German", "French", "Dutch"],
+        "flag": "🇧🇪",
+        "callingCodes": "+32"
+    },
+    {
+        "commonNames": "Benin",
+        "nativeCommonNames": ["Bénin"],
+        "cca3": "BEN",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇧🇯",
+        "callingCodes": "+229"
+    },
+    {
+        "commonNames": "Burkina Faso",
+        "nativeCommonNames": ["Burkina Faso"],
+        "cca3": "BFA",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇧🇫",
+        "callingCodes": "+226"
+    },
+    {
+        "commonNames": "Bangladesh",
+        "nativeCommonNames": ["বাংলাদেশ"],
+        "cca3": "BGD",
+        "currencies": [
+            {
+                "name": "Bangladeshi taka",
+                "symbol": "৳"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Bengali"],
+        "flag": "🇧🇩",
+        "callingCodes": "+880"
+    },
+    {
+        "commonNames": "Bulgaria",
+        "nativeCommonNames": ["България"],
+        "cca3": "BGR",
+        "currencies": [
+            {
+                "name": "Bulgarian lev",
+                "symbol": "лв"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Bulgarian"],
+        "flag": "🇧🇬",
+        "callingCodes": "+359"
+    },
+    {
+        "commonNames": "Bahrain",
+        "nativeCommonNames": ["‏البحرين"],
+        "cca3": "BHR",
+        "currencies": [
+            {
+                "name": "Bahraini dinar",
+                "symbol": ".د.ب"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇧🇭",
+        "callingCodes": "+973"
+    },
+    {
+        "commonNames": "Bahamas",
+        "nativeCommonNames": ["Bahamas"],
+        "cca3": "BHS",
+        "currencies": [
+            {
+                "name": "Bahamian dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇧🇸",
+        "callingCodes": "+1242"
+    },
+    {
+        "commonNames": "Bosnia and Herzegovina",
+        "nativeCommonNames": ["Bosna i Hercegovina", "Bosna i Hercegovina", "Боснa и Херцеговина"],
+        "cca3": "BIH",
+        "currencies": [
+            {
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Bosnian", "Croatian", "Serbian"],
+        "flag": "🇧🇦",
+        "callingCodes": "+387"
+    },
+    {
+        "commonNames": "Saint Barthélemy",
+        "nativeCommonNames": ["Saint-Barthélemy"],
+        "cca3": "BLM",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇧🇱",
+        "callingCodes": "+590"
+    },
+    {
+        "commonNames": "Saint Helena, Ascension and Tristan da Cunha",
+        "nativeCommonNames": ["Saint Helena, Ascension and Tristan da Cunha"],
+        "cca3": "SHN",
+        "currencies": [
+            {
+                "name": "Pound sterling",
+                "symbol": "£"
+            },
+            {
+                "name": "Saint Helena pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇸🇭",
+        "callingCodes": "+290, 47"
+    },
+    {
+        "commonNames": "Belarus",
+        "nativeCommonNames": ["Белару́сь", "Беларусь"],
+        "cca3": "BLR",
+        "currencies": [
+            {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Belarusian", "Russian"],
+        "flag": "🇧🇾",
+        "callingCodes": "+375"
+    },
+    {
+        "commonNames": "Belize",
+        "nativeCommonNames": ["Belize", "Belize", "Belice"],
+        "cca3": "BLZ",
+        "currencies": [
+            {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Belizean Creole", "English", "Spanish"],
+        "flag": "🇧🇿",
+        "callingCodes": "+501"
+    },
+    {
+        "commonNames": "Bermuda",
+        "nativeCommonNames": ["Bermuda"],
+        "cca3": "BMU",
+        "currencies": [
+            {
+                "name": "Bermudian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇧🇲",
+        "callingCodes": "+1441"
+    },
+    {
+        "commonNames": "Bolivia",
+        "nativeCommonNames": ["Wuliwya", "Volívia", "Buliwya", "Bolivia"],
+        "cca3": "BOL",
+        "currencies": [
+            {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Aymara", "Guaraní", "Quechua", "Spanish"],
+        "flag": "🇧🇴",
+        "callingCodes": "+591"
+    },
+    {
+        "commonNames": "Caribbean Netherlands",
+        "nativeCommonNames": ["Caribisch Nederland", "Boneiru, Sint Eustatius y Saba"],
+        "cca3": "BES",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "Dutch", "Papiamento"],
+        "flag": "",
+        "callingCodes": "+599"
+    },
+    {
+        "commonNames": "Brazil",
+        "nativeCommonNames": ["Brasil"],
+        "cca3": "BRA",
+        "currencies": [
+            {
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Portuguese"],
+        "flag": "🇧🇷",
+        "callingCodes": "+55"
+    },
+    {
+        "commonNames": "Barbados",
+        "nativeCommonNames": ["Barbados"],
+        "cca3": "BRB",
+        "currencies": [
+            {
+                "name": "Barbadian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇧🇧",
+        "callingCodes": "+1246"
+    },
+    {
+        "commonNames": "Brunei",
+        "nativeCommonNames": ["Negara Brunei Darussalam"],
+        "cca3": "BRN",
+        "currencies": [
+            {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Malay"],
+        "flag": "🇧🇳",
+        "callingCodes": "+673"
+    },
+    {
+        "commonNames": "Bhutan",
+        "nativeCommonNames": ["འབྲུག་ཡུལ་"],
+        "cca3": "BTN",
+        "currencies": [
+            {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            {
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Dzongkha"],
+        "flag": "🇧🇹",
+        "callingCodes": "+975"
+    },
+    {
+        "commonNames": "Bouvet Island",
+        "nativeCommonNames": ["Bouvetøya"],
+        "cca3": "BVT",
+        "currencies": [],
+        "region": "Antarctic",
+        "languages": ["Norwegian"],
+        "flag": "🇧🇻",
+        "callingCodes": "+47"
+    },
+    {
+        "commonNames": "Botswana",
+        "nativeCommonNames": ["Botswana", "Botswana"],
+        "cca3": "BWA",
+        "currencies": [
+            {
+                "name": "Botswana pula",
+                "symbol": "P"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Tswana"],
+        "flag": "🇧🇼",
+        "callingCodes": "+267"
+    },
+    {
+        "commonNames": "Central African Republic",
+        "nativeCommonNames": ["République centrafricaine", "Bêafrîka"],
+        "cca3": "CAF",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Sango"],
+        "flag": "🇨🇫",
+        "callingCodes": "+236"
+    },
+    {
+        "commonNames": "Canada",
+        "nativeCommonNames": ["Canada", "Canada"],
+        "cca3": "CAN",
+        "currencies": [
+            {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "French"],
+        "flag": "🇨🇦",
+        "callingCodes": "+1204, 226, 236, 249, 250, 263, 289, 306, 343, 354, 365, 367, 368, 382, 387, 403, 416, 418, 428, 431, 437, 438, 450, 468, 474, 506, 514, 519, 548, 579, 581, 584, 587, 600, 604, 613, 622, 633, 639, 644, 647, 655, 672, 677, 683, 688, 705, 709, 742, 753, 778, 780, 782, 782, 807, 819, 825, 867, 867, 867, 873, 879, 902, 902, 905, 942"
+    },
+    {
+        "commonNames": "Cocos (Keeling) Islands",
+        "nativeCommonNames": ["Cocos (Keeling) Islands"],
+        "cca3": "CCK",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇨🇨",
+        "callingCodes": "+61"
+    },
+    {
+        "commonNames": "Switzerland",
+        "nativeCommonNames": ["Suisse", "Schweiz", "Svizzera", "Svizra"],
+        "cca3": "CHE",
+        "currencies": [
+            {
+                "name": "Swiss franc",
+                "symbol": "Fr."
+            }
+        ],
+        "region": "Europe",
+        "languages": ["French", "Swiss German", "Italian", "Romansh"],
+        "flag": "🇨🇭",
+        "callingCodes": "+41"
+    },
+    {
+        "commonNames": "Chile",
+        "nativeCommonNames": ["Chile"],
+        "cca3": "CHL",
+        "currencies": [
+            {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇨🇱",
+        "callingCodes": "+56"
+    },
+    {
+        "commonNames": "China",
+        "nativeCommonNames": ["中国"],
+        "cca3": "CHN",
+        "currencies": [
+            {
+                "name": "Chinese yuan",
+                "symbol": "¥"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Chinese"],
+        "flag": "🇨🇳",
+        "callingCodes": "+86"
+    },
+    {
+        "commonNames": "Ivory Coast",
+        "nativeCommonNames": ["Côte d'Ivoire"],
+        "cca3": "CIV",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇨🇮",
+        "callingCodes": "+225"
+    },
+    {
+        "commonNames": "Cameroon",
+        "nativeCommonNames": ["Cameroon", "Cameroun"],
+        "cca3": "CMR",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "French"],
+        "flag": "🇨🇲",
+        "callingCodes": "+237"
+    },
+    {
+        "commonNames": "DR Congo",
+        "nativeCommonNames": [
+            "RD Congo",
+            "Repubilika ya Kongo Demokratiki",
+            "Republiki ya Kongó Demokratiki",
+            "Ditunga dia Kongu wa Mungalaata",
+            "Jamhuri ya Kidemokrasia ya Kongo"
+        ],
+        "cca3": "COD",
+        "currencies": [
+            {
+                "name": "Congolese franc",
+                "symbol": "FC"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Kikongo", "Lingala", "Tshiluba", "Swahili"],
+        "flag": "🇨🇩",
+        "callingCodes": "+243"
+    },
+    {
+        "commonNames": "Republic of the Congo",
+        "nativeCommonNames": ["République du Congo", "Repubilika ya Kongo", "Republíki ya Kongó"],
+        "cca3": "COG",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Kikongo", "Lingala"],
+        "flag": "🇨🇬",
+        "callingCodes": "+242"
+    },
+    {
+        "commonNames": "Cook Islands",
+        "nativeCommonNames": ["Cook Islands", "Kūki 'Āirani"],
+        "cca3": "COK",
+        "currencies": [
+            {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Cook Islands Māori"],
+        "flag": "🇨🇰",
+        "callingCodes": "+682"
+    },
+    {
+        "commonNames": "Colombia",
+        "nativeCommonNames": ["Colombia"],
+        "cca3": "COL",
+        "currencies": [
+            {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇨🇴",
+        "callingCodes": "+57"
+    },
+    {
+        "commonNames": "Comoros",
+        "nativeCommonNames": ["القمر‎", "Comores", "Komori"],
+        "cca3": "COM",
+        "currencies": [
+            {
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "French", "Comorian"],
+        "flag": "🇰🇲",
+        "callingCodes": "+269"
+    },
+    {
+        "commonNames": "Cape Verde",
+        "nativeCommonNames": ["Cabo Verde"],
+        "cca3": "CPV",
+        "currencies": [
+            {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Portuguese"],
+        "flag": "🇨🇻",
+        "callingCodes": "+238"
+    },
+    {
+        "commonNames": "Costa Rica",
+        "nativeCommonNames": ["Costa Rica"],
+        "cca3": "CRI",
+        "currencies": [
+            {
+                "name": "Costa Rican colón",
+                "symbol": "₡"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇨🇷",
+        "callingCodes": "+506"
+    },
+    {
+        "commonNames": "Cuba",
+        "nativeCommonNames": ["Cuba"],
+        "cca3": "CUB",
+        "currencies": [
+            {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇨🇺",
+        "callingCodes": "+53"
+    },
+    {
+        "commonNames": "Curaçao",
+        "nativeCommonNames": ["Curaçao", "Curaçao", "Pais Kòrsou"],
+        "cca3": "CUW",
+        "currencies": [
+            {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "Dutch", "Papiamento"],
+        "flag": "🇨🇼",
+        "callingCodes": "+599"
+    },
+    {
+        "commonNames": "Christmas Island",
+        "nativeCommonNames": ["Christmas Island"],
+        "cca3": "CXR",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇨🇽",
+        "callingCodes": "+61"
+    },
+    {
+        "commonNames": "Cayman Islands",
+        "nativeCommonNames": ["Cayman Islands"],
+        "cca3": "CYM",
+        "currencies": [
+            {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇰🇾",
+        "callingCodes": "+1345"
+    },
+    {
+        "commonNames": "Cyprus",
+        "nativeCommonNames": ["Κύπρος", "Kıbrıs"],
+        "cca3": "CYP",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Greek", "Turkish"],
+        "flag": "🇨🇾",
+        "callingCodes": "+357"
+    },
+    {
+        "commonNames": "Czechia",
+        "nativeCommonNames": ["Česko", "Česko"],
+        "cca3": "CZE",
+        "currencies": [
+            {
+                "name": "Czech koruna",
+                "symbol": "Kč"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Czech", "Slovak"],
+        "flag": "🇨🇿",
+        "callingCodes": "+420"
+    },
+    {
+        "commonNames": "Germany",
+        "nativeCommonNames": ["Deutschland"],
+        "cca3": "DEU",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["German"],
+        "flag": "🇩🇪",
+        "callingCodes": "+49"
+    },
+    {
+        "commonNames": "Djibouti",
+        "nativeCommonNames": ["جيبوتي‎", "Djibouti"],
+        "cca3": "DJI",
+        "currencies": [
+            {
+                "name": "Djiboutian franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "French"],
+        "flag": "🇩🇯",
+        "callingCodes": "+253"
+    },
+    {
+        "commonNames": "Dominica",
+        "nativeCommonNames": ["Dominica"],
+        "cca3": "DMA",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇩🇲",
+        "callingCodes": "+1767"
+    },
+    {
+        "commonNames": "Denmark",
+        "nativeCommonNames": ["Danmark"],
+        "cca3": "DNK",
+        "currencies": [
+            {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Danish"],
+        "flag": "🇩🇰",
+        "callingCodes": "+45"
+    },
+    {
+        "commonNames": "Dominican Republic",
+        "nativeCommonNames": ["República Dominicana"],
+        "cca3": "DOM",
+        "currencies": [
+            {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇩🇴",
+        "callingCodes": "+1809, 829, 849"
+    },
+    {
+        "commonNames": "Algeria",
+        "nativeCommonNames": ["الجزائر"],
+        "cca3": "DZA",
+        "currencies": [
+            {
+                "name": "Algerian dinar",
+                "symbol": "د.ج"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic"],
+        "flag": "🇩🇿",
+        "callingCodes": "+213"
+    },
+    {
+        "commonNames": "Ecuador",
+        "nativeCommonNames": ["Ecuador"],
+        "cca3": "ECU",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇪🇨",
+        "callingCodes": "+593"
+    },
+    {
+        "commonNames": "Egypt",
+        "nativeCommonNames": ["مصر"],
+        "cca3": "EGY",
+        "currencies": [
+            {
+                "name": "Egyptian pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic"],
+        "flag": "🇪🇬",
+        "callingCodes": "+20"
+    },
+    {
+        "commonNames": "Eritrea",
+        "nativeCommonNames": ["إرتريا‎", "Eritrea", "ኤርትራ"],
+        "cca3": "ERI",
+        "currencies": [
+            {
+                "name": "Eritrean nakfa",
+                "symbol": "Nfk"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "English", "Tigrinya"],
+        "flag": "🇪🇷",
+        "callingCodes": "+291"
+    },
+    {
+        "commonNames": "Western Sahara",
+        "nativeCommonNames": ["Western Sahara", "الصحراء الغربية", "Sahara Occidental"],
+        "cca3": "ESH",
+        "currencies": [
+            {
+                "name": "Algerian dinar",
+                "symbol": "دج"
+            },
+            {
+                "name": "Moroccan dirham",
+                "symbol": "DH"
+            },
+            {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Berber", "Hassaniya", "Spanish"],
+        "flag": "🇪🇭",
+        "callingCodes": "+2125288, 125289"
+    },
+    {
+        "commonNames": "Spain",
+        "nativeCommonNames": ["España"],
+        "cca3": "ESP",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Spanish"],
+        "flag": "🇪🇸",
+        "callingCodes": "+34"
+    },
+    {
+        "commonNames": "Estonia",
+        "nativeCommonNames": ["Eesti"],
+        "cca3": "EST",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Estonian"],
+        "flag": "🇪🇪",
+        "callingCodes": "+372"
+    },
+    {
+        "commonNames": "Ethiopia",
+        "nativeCommonNames": ["ኢትዮጵያ"],
+        "cca3": "ETH",
+        "currencies": [
+            {
+                "name": "Ethiopian birr",
+                "symbol": "Br"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Amharic"],
+        "flag": "🇪🇹",
+        "callingCodes": "+251"
+    },
+    {
+        "commonNames": "Finland",
+        "nativeCommonNames": ["Suomi", "Finland"],
+        "cca3": "FIN",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Finnish", "Swedish"],
+        "flag": "🇫🇮",
+        "callingCodes": "+358"
+    },
+    {
+        "commonNames": "Fiji",
+        "nativeCommonNames": ["Fiji", "Viti", "फिजी"],
+        "cca3": "FJI",
+        "currencies": [
+            {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Fijian", "Fiji Hindi"],
+        "flag": "🇫🇯",
+        "callingCodes": "+679"
+    },
+    {
+        "commonNames": "Falkland Islands",
+        "nativeCommonNames": ["Falkland Islands"],
+        "cca3": "FLK",
+        "currencies": [
+            {
+                "name": "Falkland Islands pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇫🇰",
+        "callingCodes": "+500"
+    },
+    {
+        "commonNames": "France",
+        "nativeCommonNames": ["France"],
+        "cca3": "FRA",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["French"],
+        "flag": "🇫🇷",
+        "callingCodes": "+33"
+    },
+    {
+        "commonNames": "Faroe Islands",
+        "nativeCommonNames": ["Færøerne", "Føroyar"],
+        "cca3": "FRO",
+        "currencies": [
+            {
+                "name": "Danish krone",
+                "symbol": "kr"
+            },
+            {
+                "name": "Faroese króna",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Danish", "Faroese"],
+        "flag": "🇫🇴",
+        "callingCodes": "+298"
+    },
+    {
+        "commonNames": "Micronesia",
+        "nativeCommonNames": ["Micronesia"],
+        "cca3": "FSM",
+        "currencies": [],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇫🇲",
+        "callingCodes": "+691"
+    },
+    {
+        "commonNames": "Gabon",
+        "nativeCommonNames": ["Gabon"],
+        "cca3": "GAB",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇬🇦",
+        "callingCodes": "+241"
+    },
+    {
+        "commonNames": "United Kingdom",
+        "nativeCommonNames": ["United Kingdom"],
+        "cca3": "GBR",
+        "currencies": [
+            {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English"],
+        "flag": "🇬🇧",
+        "callingCodes": "+44"
+    },
+    {
+        "commonNames": "Georgia",
+        "nativeCommonNames": ["საქართველო"],
+        "cca3": "GEO",
+        "currencies": [
+            {
+                "name": "lari",
+                "symbol": "₾"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Georgian"],
+        "flag": "🇬🇪",
+        "callingCodes": "+995"
+    },
+    {
+        "commonNames": "Guernsey",
+        "nativeCommonNames": ["Guernsey", "Guernesey", "Dgèrnésiais"],
+        "cca3": "GGY",
+        "currencies": [
+            {
+                "name": "British pound",
+                "symbol": "£"
+            },
+            {
+                "name": "Guernsey pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English", "French", "Guernésiais"],
+        "flag": "🇬🇬",
+        "callingCodes": "+44"
+    },
+    {
+        "commonNames": "Ghana",
+        "nativeCommonNames": ["Ghana"],
+        "cca3": "GHA",
+        "currencies": [
+            {
+                "name": "Ghanaian cedi",
+                "symbol": "₵"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇬🇭",
+        "callingCodes": "+233"
+    },
+    {
+        "commonNames": "Gibraltar",
+        "nativeCommonNames": ["Gibraltar"],
+        "cca3": "GIB",
+        "currencies": [
+            {
+                "name": "Gibraltar pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English"],
+        "flag": "🇬🇮",
+        "callingCodes": "+350"
+    },
+    {
+        "commonNames": "Guinea",
+        "nativeCommonNames": ["Guinée"],
+        "cca3": "GIN",
+        "currencies": [
+            {
+                "name": "Guinean franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇬🇳",
+        "callingCodes": "+224"
+    },
+    {
+        "commonNames": "Guadeloupe",
+        "nativeCommonNames": ["Guadeloupe"],
+        "cca3": "GLP",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇬🇵",
+        "callingCodes": "+590"
+    },
+    {
+        "commonNames": "Gambia",
+        "nativeCommonNames": ["Gambia"],
+        "cca3": "GMB",
+        "currencies": [
+            {
+                "name": "dalasi",
+                "symbol": "D"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇬🇲",
+        "callingCodes": "+220"
+    },
+    {
+        "commonNames": "Guinea-Bissau",
+        "nativeCommonNames": ["Guiné-Bissau", "Guiné-Bissau"],
+        "cca3": "GNB",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Portuguese", "Upper Guinea Creole"],
+        "flag": "🇬🇼",
+        "callingCodes": "+245"
+    },
+    {
+        "commonNames": "Equatorial Guinea",
+        "nativeCommonNames": ["Guinée équatoriale", "Guiné Equatorial", "Guinea Ecuatorial"],
+        "cca3": "GNQ",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Portuguese", "Spanish"],
+        "flag": "🇬🇶",
+        "callingCodes": "+240"
+    },
+    {
+        "commonNames": "Greece",
+        "nativeCommonNames": ["Ελλάδα"],
+        "cca3": "GRC",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Greek"],
+        "flag": "🇬🇷",
+        "callingCodes": "+30"
+    },
+    {
+        "commonNames": "Grenada",
+        "nativeCommonNames": ["Grenada"],
+        "cca3": "GRD",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇬🇩",
+        "callingCodes": "+1473"
+    },
+    {
+        "commonNames": "Greenland",
+        "nativeCommonNames": ["Kalaallit Nunaat"],
+        "cca3": "GRL",
+        "currencies": [
+            {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Greenlandic"],
+        "flag": "🇬🇱",
+        "callingCodes": "+299"
+    },
+    {
+        "commonNames": "Guatemala",
+        "nativeCommonNames": ["Guatemala"],
+        "cca3": "GTM",
+        "currencies": [
+            {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇬🇹",
+        "callingCodes": "+502"
+    },
+    {
+        "commonNames": "French Guiana",
+        "nativeCommonNames": ["Guyane française"],
+        "cca3": "GUF",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇬🇫",
+        "callingCodes": "+594"
+    },
+    {
+        "commonNames": "Guam",
+        "nativeCommonNames": ["Guåhån", "Guam", "Guam"],
+        "cca3": "GUM",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["Chamorro", "English", "Spanish"],
+        "flag": "🇬🇺",
+        "callingCodes": "+1671"
+    },
+    {
+        "commonNames": "Guyana",
+        "nativeCommonNames": ["Guyana"],
+        "cca3": "GUY",
+        "currencies": [
+            {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇬🇾",
+        "callingCodes": "+592"
+    },
+    {
+        "commonNames": "Hong Kong",
+        "nativeCommonNames": ["Hong Kong", "香港"],
+        "cca3": "HKG",
+        "currencies": [
+            {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Chinese"],
+        "flag": "🇭🇰",
+        "callingCodes": "+852"
+    },
+    {
+        "commonNames": "Heard Island and McDonald Islands",
+        "nativeCommonNames": ["Heard Island and McDonald Islands"],
+        "cca3": "HMD",
+        "currencies": [],
+        "region": "Antarctic",
+        "languages": ["English"],
+        "flag": "🇭🇲",
+        "callingCodes": ""
+    },
+    {
+        "commonNames": "Honduras",
+        "nativeCommonNames": ["Honduras"],
+        "cca3": "HND",
+        "currencies": [
+            {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇭🇳",
+        "callingCodes": "+504"
+    },
+    {
+        "commonNames": "Croatia",
+        "nativeCommonNames": ["Hrvatska"],
+        "cca3": "HRV",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Croatian"],
+        "flag": "🇭🇷",
+        "callingCodes": "+385"
+    },
+    {
+        "commonNames": "Haiti",
+        "nativeCommonNames": ["Haïti", "Ayiti"],
+        "cca3": "HTI",
+        "currencies": [
+            {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French", "Haitian Creole"],
+        "flag": "🇭🇹",
+        "callingCodes": "+509"
+    },
+    {
+        "commonNames": "Hungary",
+        "nativeCommonNames": ["Magyarország"],
+        "cca3": "HUN",
+        "currencies": [
+            {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Hungarian"],
+        "flag": "🇭🇺",
+        "callingCodes": "+36"
+    },
+    {
+        "commonNames": "Indonesia",
+        "nativeCommonNames": ["Indonesia"],
+        "cca3": "IDN",
+        "currencies": [
+            {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Indonesian"],
+        "flag": "🇮🇩",
+        "callingCodes": "+62"
+    },
+    {
+        "commonNames": "Isle of Man",
+        "nativeCommonNames": ["Isle of Man", "Mannin"],
+        "cca3": "IMN",
+        "currencies": [
+            {
+                "name": "British pound",
+                "symbol": "£"
+            },
+            {
+                "name": "Manx pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English", "Manx"],
+        "flag": "🇮🇲",
+        "callingCodes": "+44"
+    },
+    {
+        "commonNames": "India",
+        "nativeCommonNames": ["India", "भारत", "இந்தியா"],
+        "cca3": "IND",
+        "currencies": [
+            {
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Hindi", "Tamil"],
+        "flag": "🇮🇳",
+        "callingCodes": "+91"
+    },
+    {
+        "commonNames": "British Indian Ocean Territory",
+        "nativeCommonNames": ["British Indian Ocean Territory"],
+        "cca3": "IOT",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇮🇴",
+        "callingCodes": "+246"
+    },
+    {
+        "commonNames": "Ireland",
+        "nativeCommonNames": ["Ireland", "Éire"],
+        "cca3": "IRL",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English", "Irish"],
+        "flag": "🇮🇪",
+        "callingCodes": "+353"
+    },
+    {
+        "commonNames": "Iran",
+        "nativeCommonNames": ["ایران"],
+        "cca3": "IRN",
+        "currencies": [
+            {
+                "name": "Iranian rial",
+                "symbol": "﷼"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Persian (Farsi)"],
+        "flag": "🇮🇷",
+        "callingCodes": "+98"
+    },
+    {
+        "commonNames": "Iraq",
+        "nativeCommonNames": ["العراق", "ܩܘܼܛܢܵܐ", "کۆماری"],
+        "cca3": "IRQ",
+        "currencies": [
+            {
+                "name": "Iraqi dinar",
+                "symbol": "ع.د"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic", "Aramaic", "Sorani"],
+        "flag": "🇮🇶",
+        "callingCodes": "+964"
+    },
+    {
+        "commonNames": "Iceland",
+        "nativeCommonNames": ["Ísland"],
+        "cca3": "ISL",
+        "currencies": [
+            {
+                "name": "Icelandic króna",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Icelandic"],
+        "flag": "🇮🇸",
+        "callingCodes": "+354"
+    },
+    {
+        "commonNames": "Israel",
+        "nativeCommonNames": ["إسرائيل", "ישראל"],
+        "cca3": "ISR",
+        "currencies": [
+            {
+                "name": "Israeli new shekel",
+                "symbol": "₪"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic", "Hebrew"],
+        "flag": "🇮🇱",
+        "callingCodes": "+972"
+    },
+    {
+        "commonNames": "Italy",
+        "nativeCommonNames": ["Italia"],
+        "cca3": "ITA",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Italian"],
+        "flag": "🇮🇹",
+        "callingCodes": "+39"
+    },
+    {
+        "commonNames": "Jamaica",
+        "nativeCommonNames": ["Jamaica", "Jamaica"],
+        "cca3": "JAM",
+        "currencies": [
+            {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "Jamaican Patois"],
+        "flag": "🇯🇲",
+        "callingCodes": "+1876"
+    },
+    {
+        "commonNames": "Jersey",
+        "nativeCommonNames": ["Jersey", "Jersey", "Jèrri"],
+        "cca3": "JEY",
+        "currencies": [
+            {
+                "name": "British pound",
+                "symbol": "£"
+            },
+            {
+                "name": "Jersey pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English", "French", "Jèrriais"],
+        "flag": "🇯🇪",
+        "callingCodes": "+44"
+    },
+    {
+        "commonNames": "Jordan",
+        "nativeCommonNames": ["الأردن"],
+        "cca3": "JOR",
+        "currencies": [
+            {
+                "name": "Jordanian dinar",
+                "symbol": "د.ا"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇯🇴",
+        "callingCodes": "+962"
+    },
+    {
+        "commonNames": "Japan",
+        "nativeCommonNames": ["日本"],
+        "cca3": "JPN",
+        "currencies": [
+            {
+                "name": "Japanese yen",
+                "symbol": "¥"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Japanese"],
+        "flag": "🇯🇵",
+        "callingCodes": "+81"
+    },
+    {
+        "commonNames": "Kazakhstan",
+        "nativeCommonNames": ["Қазақстан", "Казахстан"],
+        "cca3": "KAZ",
+        "currencies": [
+            {
+                "name": "Kazakhstani tenge",
+                "symbol": "₸"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Kazakh", "Russian"],
+        "flag": "🇰🇿",
+        "callingCodes": "+76, 7"
+    },
+    {
+        "commonNames": "Kenya",
+        "nativeCommonNames": ["Kenya", "Kenya"],
+        "cca3": "KEN",
+        "currencies": [
+            {
+                "name": "Kenyan shilling",
+                "symbol": "Sh"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Swahili"],
+        "flag": "🇰🇪",
+        "callingCodes": "+254"
+    },
+    {
+        "commonNames": "Kyrgyzstan",
+        "nativeCommonNames": ["Кыргызстан", "Киргизия"],
+        "cca3": "KGZ",
+        "currencies": [
+            {
+                "name": "Kyrgyzstani som",
+                "symbol": "с"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Kyrgyz", "Russian"],
+        "flag": "🇰🇬",
+        "callingCodes": "+996"
+    },
+    {
+        "commonNames": "Cambodia",
+        "nativeCommonNames": ["Kâmpŭchéa"],
+        "cca3": "KHM",
+        "currencies": [
+            {
+                "name": "Cambodian riel",
+                "symbol": "៛"
+            },
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Khmer"],
+        "flag": "🇰🇭",
+        "callingCodes": "+855"
+    },
+    {
+        "commonNames": "Kiribati",
+        "nativeCommonNames": ["Kiribati", "Kiribati"],
+        "cca3": "KIR",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Gilbertese"],
+        "flag": "🇰🇮",
+        "callingCodes": "+686"
+    },
+    {
+        "commonNames": "Saint Kitts and Nevis",
+        "nativeCommonNames": ["Saint Kitts and Nevis"],
+        "cca3": "KNA",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇰🇳",
+        "callingCodes": "+1869"
+    },
+    {
+        "commonNames": "South Korea",
+        "nativeCommonNames": ["한국"],
+        "cca3": "KOR",
+        "currencies": [
+            {
+                "name": "South Korean won",
+                "symbol": "₩"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Korean"],
+        "flag": "🇰🇷",
+        "callingCodes": "+82"
+    },
+    {
+        "commonNames": "Kosovo",
+        "nativeCommonNames": ["Kosova", "Косово"],
+        "cca3": "UNK",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Albanian", "Serbian"],
+        "flag": "🇽🇰",
+        "callingCodes": "+383"
+    },
+    {
+        "commonNames": "Kuwait",
+        "nativeCommonNames": ["الكويت"],
+        "cca3": "KWT",
+        "currencies": [
+            {
+                "name": "Kuwaiti dinar",
+                "symbol": "د.ك"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇰🇼",
+        "callingCodes": "+965"
+    },
+    {
+        "commonNames": "Laos",
+        "nativeCommonNames": ["ສປປລາວ"],
+        "cca3": "LAO",
+        "currencies": [
+            {
+                "name": "Lao kip",
+                "symbol": "₭"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Lao"],
+        "flag": "🇱🇦",
+        "callingCodes": "+856"
+    },
+    {
+        "commonNames": "Lebanon",
+        "nativeCommonNames": ["لبنان", "Liban"],
+        "cca3": "LBN",
+        "currencies": [
+            {
+                "name": "Lebanese pound",
+                "symbol": "ل.ل"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic", "French"],
+        "flag": "🇱🇧",
+        "callingCodes": "+961"
+    },
+    {
+        "commonNames": "Liberia",
+        "nativeCommonNames": ["Liberia"],
+        "cca3": "LBR",
+        "currencies": [
+            {
+                "name": "Liberian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇱🇷",
+        "callingCodes": "+231"
+    },
+    {
+        "commonNames": "Libya",
+        "nativeCommonNames": ["‏ليبيا"],
+        "cca3": "LBY",
+        "currencies": [
+            {
+                "name": "Libyan dinar",
+                "symbol": "ل.د"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic"],
+        "flag": "🇱🇾",
+        "callingCodes": "+218"
+    },
+    {
+        "commonNames": "Saint Lucia",
+        "nativeCommonNames": ["Saint Lucia"],
+        "cca3": "LCA",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇱🇨",
+        "callingCodes": "+1758"
+    },
+    {
+        "commonNames": "Liechtenstein",
+        "nativeCommonNames": ["Liechtenstein"],
+        "cca3": "LIE",
+        "currencies": [
+            {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["German"],
+        "flag": "🇱🇮",
+        "callingCodes": "+423"
+    },
+    {
+        "commonNames": "Sri Lanka",
+        "nativeCommonNames": ["ශ්‍රී ලංකාව", "இலங்கை"],
+        "cca3": "LKA",
+        "currencies": [
+            {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  රු"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Sinhala", "Tamil"],
+        "flag": "🇱🇰",
+        "callingCodes": "+94"
+    },
+    {
+        "commonNames": "Lesotho",
+        "nativeCommonNames": ["Lesotho", "Lesotho"],
+        "cca3": "LSO",
+        "currencies": [
+            {
+                "name": "Lesotho loti",
+                "symbol": "L"
+            },
+            {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Sotho"],
+        "flag": "🇱🇸",
+        "callingCodes": "+266"
+    },
+    {
+        "commonNames": "Lithuania",
+        "nativeCommonNames": ["Lietuva"],
+        "cca3": "LTU",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Lithuanian"],
+        "flag": "🇱🇹",
+        "callingCodes": "+370"
+    },
+    {
+        "commonNames": "Luxembourg",
+        "nativeCommonNames": ["Luxemburg", "Luxembourg", "Lëtzebuerg"],
+        "cca3": "LUX",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["German", "French", "Luxembourgish"],
+        "flag": "🇱🇺",
+        "callingCodes": "+352"
+    },
+    {
+        "commonNames": "Latvia",
+        "nativeCommonNames": ["Latvija"],
+        "cca3": "LVA",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Latvian"],
+        "flag": "🇱🇻",
+        "callingCodes": "+371"
+    },
+    {
+        "commonNames": "Macau",
+        "nativeCommonNames": ["Macau", "澳门"],
+        "cca3": "MAC",
+        "currencies": [
+            {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Portuguese", "Chinese"],
+        "flag": "🇲🇴",
+        "callingCodes": "+853"
+    },
+    {
+        "commonNames": "Saint Martin",
+        "nativeCommonNames": ["Saint-Martin"],
+        "cca3": "MAF",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇲🇫",
+        "callingCodes": "+590"
+    },
+    {
+        "commonNames": "Morocco",
+        "nativeCommonNames": ["المغرب", "ⵍⵎⴰⵖⵔⵉⴱ"],
+        "cca3": "MAR",
+        "currencies": [
+            {
+                "name": "Moroccan dirham",
+                "symbol": "د.م."
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "Berber"],
+        "flag": "🇲🇦",
+        "callingCodes": "+212"
+    },
+    {
+        "commonNames": "Monaco",
+        "nativeCommonNames": ["Monaco"],
+        "cca3": "MCO",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["French"],
+        "flag": "🇲🇨",
+        "callingCodes": "+377"
+    },
+    {
+        "commonNames": "Moldova",
+        "nativeCommonNames": ["Moldova"],
+        "cca3": "MDA",
+        "currencies": [
+            {
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Moldavian"],
+        "flag": "🇲🇩",
+        "callingCodes": "+373"
+    },
+    {
+        "commonNames": "Madagascar",
+        "nativeCommonNames": ["Madagascar", "Madagasikara"],
+        "cca3": "MDG",
+        "currencies": [
+            {
+                "name": "Malagasy ariary",
+                "symbol": "Ar"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French", "Malagasy"],
+        "flag": "🇲🇬",
+        "callingCodes": "+261"
+    },
+    {
+        "commonNames": "Maldives",
+        "nativeCommonNames": ["ދިވެހިރާއްޖޭގެ"],
+        "cca3": "MDV",
+        "currencies": [
+            {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".ރ"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Maldivian"],
+        "flag": "🇲🇻",
+        "callingCodes": "+960"
+    },
+    {
+        "commonNames": "Mexico",
+        "nativeCommonNames": ["México"],
+        "cca3": "MEX",
+        "currencies": [
+            {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇲🇽",
+        "callingCodes": "+52"
+    },
+    {
+        "commonNames": "Marshall Islands",
+        "nativeCommonNames": ["Marshall Islands", "M̧ajeļ"],
+        "cca3": "MHL",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Marshallese"],
+        "flag": "🇲🇭",
+        "callingCodes": "+692"
+    },
+    {
+        "commonNames": "North Macedonia",
+        "nativeCommonNames": ["Македонија"],
+        "cca3": "MKD",
+        "currencies": [
+            {
+                "name": "denar",
+                "symbol": "den"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Macedonian"],
+        "flag": "🇲🇰",
+        "callingCodes": "+389"
+    },
+    {
+        "commonNames": "Mali",
+        "nativeCommonNames": ["Mali"],
+        "cca3": "MLI",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇲🇱",
+        "callingCodes": "+223"
+    },
+    {
+        "commonNames": "Malta",
+        "nativeCommonNames": ["Malta", "Malta"],
+        "cca3": "MLT",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["English", "Maltese"],
+        "flag": "🇲🇹",
+        "callingCodes": "+356"
+    },
+    {
+        "commonNames": "Myanmar",
+        "nativeCommonNames": ["မြန်မာ"],
+        "cca3": "MMR",
+        "currencies": [
+            {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Burmese"],
+        "flag": "🇲🇲",
+        "callingCodes": "+95"
+    },
+    {
+        "commonNames": "Montenegro",
+        "nativeCommonNames": ["Црна Гора"],
+        "cca3": "MNE",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Montenegrin"],
+        "flag": "🇲🇪",
+        "callingCodes": "+382"
+    },
+    {
+        "commonNames": "Mongolia",
+        "nativeCommonNames": ["Монгол улс"],
+        "cca3": "MNG",
+        "currencies": [
+            {
+                "name": "Mongolian tögrög",
+                "symbol": "₮"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Mongolian"],
+        "flag": "🇲🇳",
+        "callingCodes": "+976"
+    },
+    {
+        "commonNames": "Northern Mariana Islands",
+        "nativeCommonNames": ["Northern Mariana Islands", "Na Islas Mariånas", "Northern Mariana Islands"],
+        "cca3": "MNP",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["Carolinian", "Chamorro", "English"],
+        "flag": "🇲🇵",
+        "callingCodes": "+1670"
+    },
+    {
+        "commonNames": "Mozambique",
+        "nativeCommonNames": ["Moçambique"],
+        "cca3": "MOZ",
+        "currencies": [
+            {
+                "name": "Mozambican metical",
+                "symbol": "MT"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Portuguese"],
+        "flag": "🇲🇿",
+        "callingCodes": "+258"
+    },
+    {
+        "commonNames": "Mauritania",
+        "nativeCommonNames": ["موريتانيا"],
+        "cca3": "MRT",
+        "currencies": [
+            {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic"],
+        "flag": "🇲🇷",
+        "callingCodes": "+222"
+    },
+    {
+        "commonNames": "Montserrat",
+        "nativeCommonNames": ["Montserrat"],
+        "cca3": "MSR",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇲🇸",
+        "callingCodes": "+1664"
+    },
+    {
+        "commonNames": "Martinique",
+        "nativeCommonNames": ["Martinique"],
+        "cca3": "MTQ",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇲🇶",
+        "callingCodes": "+596"
+    },
+    {
+        "commonNames": "Mauritius",
+        "nativeCommonNames": ["Mauritius", "Maurice", "Moris"],
+        "cca3": "MUS",
+        "currencies": [
+            {
+                "name": "Mauritian rupee",
+                "symbol": "₨"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "French", "Mauritian Creole"],
+        "flag": "🇲🇺",
+        "callingCodes": "+230"
+    },
+    {
+        "commonNames": "Malawi",
+        "nativeCommonNames": ["Malawi", "Malaŵi"],
+        "cca3": "MWI",
+        "currencies": [
+            {
+                "name": "Malawian kwacha",
+                "symbol": "MK"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Chewa"],
+        "flag": "🇲🇼",
+        "callingCodes": "+265"
+    },
+    {
+        "commonNames": "Malaysia",
+        "nativeCommonNames": ["Malaysia", "مليسيا"],
+        "cca3": "MYS",
+        "currencies": [
+            {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Malay"],
+        "flag": "🇲🇾",
+        "callingCodes": "+60"
+    },
+    {
+        "commonNames": "Mayotte",
+        "nativeCommonNames": ["Mayotte"],
+        "cca3": "MYT",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇾🇹",
+        "callingCodes": "+262"
+    },
+    {
+        "commonNames": "Namibia",
+        "nativeCommonNames": [
+            "Namibië",
+            "Namibia",
+            "Namibia",
+            "Namibia",
+            "Namibia",
+            "Namibia",
+            "Namibia",
+            "Namibia",
+            "Namibia"
+        ],
+        "cca3": "NAM",
+        "currencies": [
+            {
+                "name": "Namibian dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Afrikaans", "German", "English", "Herero", "Khoekhoe", "Kwangali", "Lozi", "Ndonga", "Tswana"],
+        "flag": "🇳🇦",
+        "callingCodes": "+264"
+    },
+    {
+        "commonNames": "New Caledonia",
+        "nativeCommonNames": ["Nouvelle-Calédonie"],
+        "cca3": "NCL",
+        "currencies": [
+            {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["French"],
+        "flag": "🇳🇨",
+        "callingCodes": "+687"
+    },
+    {
+        "commonNames": "Niger",
+        "nativeCommonNames": ["Niger"],
+        "cca3": "NER",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇳🇪",
+        "callingCodes": "+227"
+    },
+    {
+        "commonNames": "Norfolk Island",
+        "nativeCommonNames": ["Norfolk Island", "Norf'k Ailen"],
+        "cca3": "NFK",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Norfuk"],
+        "flag": "🇳🇫",
+        "callingCodes": "+672"
+    },
+    {
+        "commonNames": "Nigeria",
+        "nativeCommonNames": ["Nigeria"],
+        "cca3": "NGA",
+        "currencies": [
+            {
+                "name": "Nigerian naira",
+                "symbol": "₦"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇳🇬",
+        "callingCodes": "+234"
+    },
+    {
+        "commonNames": "Nicaragua",
+        "nativeCommonNames": ["Nicaragua"],
+        "cca3": "NIC",
+        "currencies": [
+            {
+                "name": "Nicaraguan córdoba",
+                "symbol": "C$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇳🇮",
+        "callingCodes": "+505"
+    },
+    {
+        "commonNames": "Niue",
+        "nativeCommonNames": ["Niue", "Niuē"],
+        "cca3": "NIU",
+        "currencies": [
+            {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Niuean"],
+        "flag": "🇳🇺",
+        "callingCodes": "+683"
+    },
+    {
+        "commonNames": "Netherlands",
+        "nativeCommonNames": ["Nederland"],
+        "cca3": "NLD",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Dutch"],
+        "flag": "🇳🇱",
+        "callingCodes": "+31"
+    },
+    {
+        "commonNames": "Norway",
+        "nativeCommonNames": ["Noreg", "Norge", "Norgga"],
+        "cca3": "NOR",
+        "currencies": [
+            {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Norwegian Nynorsk", "Norwegian Bokmål", "Sami"],
+        "flag": "🇳🇴",
+        "callingCodes": "+47"
+    },
+    {
+        "commonNames": "Nepal",
+        "nativeCommonNames": ["नेपाल"],
+        "cca3": "NPL",
+        "currencies": [
+            {
+                "name": "Nepalese rupee",
+                "symbol": "₨"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Nepali"],
+        "flag": "🇳🇵",
+        "callingCodes": "+977"
+    },
+    {
+        "commonNames": "Nauru",
+        "nativeCommonNames": ["Nauru", "Nauru"],
+        "cca3": "NRU",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Nauru"],
+        "flag": "🇳🇷",
+        "callingCodes": "+674"
+    },
+    {
+        "commonNames": "New Zealand",
+        "nativeCommonNames": ["New Zealand", "Aotearoa", "New Zealand"],
+        "cca3": "NZL",
+        "currencies": [
+            {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Māori", "New Zealand Sign Language"],
+        "flag": "🇳🇿",
+        "callingCodes": "+64"
+    },
+    {
+        "commonNames": "Oman",
+        "nativeCommonNames": ["عمان"],
+        "cca3": "OMN",
+        "currencies": [
+            {
+                "name": "Omani rial",
+                "symbol": "ر.ع."
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇴🇲",
+        "callingCodes": "+968"
+    },
+    {
+        "commonNames": "Pakistan",
+        "nativeCommonNames": ["Pakistan", "پاكستان"],
+        "cca3": "PAK",
+        "currencies": [
+            {
+                "name": "Pakistani rupee",
+                "symbol": "₨"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Urdu"],
+        "flag": "🇵🇰",
+        "callingCodes": "+92"
+    },
+    {
+        "commonNames": "Panama",
+        "nativeCommonNames": ["Panamá"],
+        "cca3": "PAN",
+        "currencies": [
+            {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇵🇦",
+        "callingCodes": "+507"
+    },
+    {
+        "commonNames": "Pitcairn Islands",
+        "nativeCommonNames": ["Pitcairn Islands"],
+        "cca3": "PCN",
+        "currencies": [
+            {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇵🇳",
+        "callingCodes": "+64"
+    },
+    {
+        "commonNames": "Peru",
+        "nativeCommonNames": ["Piruw", "Piruw", "Perú"],
+        "cca3": "PER",
+        "currencies": [
+            {
+                "name": "Peruvian sol",
+                "symbol": "S/."
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Aymara", "Quechua", "Spanish"],
+        "flag": "🇵🇪",
+        "callingCodes": "+51"
+    },
+    {
+        "commonNames": "Philippines",
+        "nativeCommonNames": ["Philippines", "Pilipinas"],
+        "cca3": "PHL",
+        "currencies": [
+            {
+                "name": "Philippine peso",
+                "symbol": "₱"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Filipino"],
+        "flag": "🇵🇭",
+        "callingCodes": "+63"
+    },
+    {
+        "commonNames": "Palau",
+        "nativeCommonNames": ["Palau", "Belau"],
+        "cca3": "PLW",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Palauan"],
+        "flag": "🇵🇼",
+        "callingCodes": "+680"
+    },
+    {
+        "commonNames": "Papua New Guinea",
+        "nativeCommonNames": ["Papua New Guinea", "Papua Niu Gini", "Papua Niugini"],
+        "cca3": "PNG",
+        "currencies": [
+            {
+                "name": "Papua New Guinean kina",
+                "symbol": "K"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Hiri Motu", "Tok Pisin"],
+        "flag": "🇵🇬",
+        "callingCodes": "+675"
+    },
+    {
+        "commonNames": "Poland",
+        "nativeCommonNames": ["Polska"],
+        "cca3": "POL",
+        "currencies": [
+            {
+                "name": "Polish złoty",
+                "symbol": "zł"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Polish"],
+        "flag": "🇵🇱",
+        "callingCodes": "+48"
+    },
+    {
+        "commonNames": "Puerto Rico",
+        "nativeCommonNames": ["Puerto Rico", "Puerto Rico"],
+        "cca3": "PRI",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "Spanish"],
+        "flag": "🇵🇷",
+        "callingCodes": "+1787, 939"
+    },
+    {
+        "commonNames": "North Korea",
+        "nativeCommonNames": ["조선"],
+        "cca3": "PRK",
+        "currencies": [
+            {
+                "name": "North Korean won",
+                "symbol": "₩"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Korean"],
+        "flag": "🇰🇵",
+        "callingCodes": "+850"
+    },
+    {
+        "commonNames": "Portugal",
+        "nativeCommonNames": ["Portugal"],
+        "cca3": "PRT",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Portuguese"],
+        "flag": "🇵🇹",
+        "callingCodes": "+351"
+    },
+    {
+        "commonNames": "Paraguay",
+        "nativeCommonNames": ["Paraguái", "Paraguay"],
+        "cca3": "PRY",
+        "currencies": [
+            {
+                "name": "Paraguayan guaraní",
+                "symbol": "₲"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Guaraní", "Spanish"],
+        "flag": "🇵🇾",
+        "callingCodes": "+595"
+    },
+    {
+        "commonNames": "Palestine",
+        "nativeCommonNames": ["فلسطين"],
+        "cca3": "PSE",
+        "currencies": [
+            {
+                "name": "Egyptian pound",
+                "symbol": "E£"
+            },
+            {
+                "name": "Israeli new shekel",
+                "symbol": "₪"
+            },
+            {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇵🇸",
+        "callingCodes": "+970"
+    },
+    {
+        "commonNames": "French Polynesia",
+        "nativeCommonNames": ["Polynésie française"],
+        "cca3": "PYF",
+        "currencies": [
+            {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["French"],
+        "flag": "🇵🇫",
+        "callingCodes": "+689"
+    },
+    {
+        "commonNames": "Qatar",
+        "nativeCommonNames": ["قطر"],
+        "cca3": "QAT",
+        "currencies": [
+            {
+                "name": "Qatari riyal",
+                "symbol": "ر.ق"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇶🇦",
+        "callingCodes": "+974"
+    },
+    {
+        "commonNames": "Réunion",
+        "nativeCommonNames": ["La Réunion"],
+        "cca3": "REU",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇷🇪",
+        "callingCodes": "+262"
+    },
+    {
+        "commonNames": "Romania",
+        "nativeCommonNames": ["România"],
+        "cca3": "ROU",
+        "currencies": [
+            {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Romanian"],
+        "flag": "🇷🇴",
+        "callingCodes": "+40"
+    },
+    {
+        "commonNames": "Russia",
+        "nativeCommonNames": ["Россия"],
+        "cca3": "RUS",
+        "currencies": [
+            {
+                "name": "Russian ruble",
+                "symbol": "₽"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Russian"],
+        "flag": "🇷🇺",
+        "callingCodes": "+73, 4, 5, 8, 9"
+    },
+    {
+        "commonNames": "Rwanda",
+        "nativeCommonNames": ["Rwanda", "Rwanda", "Rwanda"],
+        "cca3": "RWA",
+        "currencies": [
+            {
+                "name": "Rwandan franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "French", "Kinyarwanda"],
+        "flag": "🇷🇼",
+        "callingCodes": "+250"
+    },
+    {
+        "commonNames": "Saudi Arabia",
+        "nativeCommonNames": ["العربية السعودية"],
+        "cca3": "SAU",
+        "currencies": [
+            {
+                "name": "Saudi riyal",
+                "symbol": "ر.س"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇸🇦",
+        "callingCodes": "+966"
+    },
+    {
+        "commonNames": "Sudan",
+        "nativeCommonNames": ["السودان", "Sudan"],
+        "cca3": "SDN",
+        "currencies": [
+            {
+                "name": "Sudanese pound",
+                "symbol": "PT"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "English"],
+        "flag": "🇸🇩",
+        "callingCodes": "+249"
+    },
+    {
+        "commonNames": "Senegal",
+        "nativeCommonNames": ["Sénégal"],
+        "cca3": "SEN",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇸🇳",
+        "callingCodes": "+221"
+    },
+    {
+        "commonNames": "Singapore",
+        "nativeCommonNames": ["Singapore", "Singapura", "சிங்கப்பூர்", "新加坡"],
+        "cca3": "SGP",
+        "currencies": [
+            {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["English", "Malay", "Tamil", "Chinese"],
+        "flag": "🇸🇬",
+        "callingCodes": "+65"
+    },
+    {
+        "commonNames": "South Georgia",
+        "nativeCommonNames": ["South Georgia"],
+        "cca3": "SGS",
+        "currencies": [
+            {
+                "name": "Saint Helena pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Antarctic",
+        "languages": ["English"],
+        "flag": "🇬🇸",
+        "callingCodes": "+500"
+    },
+    {
+        "commonNames": "Svalbard and Jan Mayen",
+        "nativeCommonNames": ["Svalbard og Jan Mayen"],
+        "cca3": "SJM",
+        "currencies": [
+            {
+                "name": "krone",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Norwegian"],
+        "flag": "🇸🇯",
+        "callingCodes": "+4779"
+    },
+    {
+        "commonNames": "Solomon Islands",
+        "nativeCommonNames": ["Solomon Islands"],
+        "cca3": "SLB",
+        "currencies": [
+            {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English"],
+        "flag": "🇸🇧",
+        "callingCodes": "+677"
+    },
+    {
+        "commonNames": "Sierra Leone",
+        "nativeCommonNames": ["Sierra Leone"],
+        "cca3": "SLE",
+        "currencies": [
+            {
+                "name": "Sierra Leonean leone",
+                "symbol": "Le"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇸🇱",
+        "callingCodes": "+232"
+    },
+    {
+        "commonNames": "El Salvador",
+        "nativeCommonNames": ["El Salvador"],
+        "cca3": "SLV",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇸🇻",
+        "callingCodes": "+503"
+    },
+    {
+        "commonNames": "San Marino",
+        "nativeCommonNames": ["San Marino"],
+        "cca3": "SMR",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Italian"],
+        "flag": "🇸🇲",
+        "callingCodes": "+378"
+    },
+    {
+        "commonNames": "Somalia",
+        "nativeCommonNames": ["الصومال‎‎", "Soomaaliya"],
+        "cca3": "SOM",
+        "currencies": [
+            {
+                "name": "Somali shilling",
+                "symbol": "Sh"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "Somali"],
+        "flag": "🇸🇴",
+        "callingCodes": "+252"
+    },
+    {
+        "commonNames": "Saint Pierre and Miquelon",
+        "nativeCommonNames": ["Saint-Pierre-et-Miquelon"],
+        "cca3": "SPM",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["French"],
+        "flag": "🇵🇲",
+        "callingCodes": "+508"
+    },
+    {
+        "commonNames": "Serbia",
+        "nativeCommonNames": ["Србија"],
+        "cca3": "SRB",
+        "currencies": [
+            {
+                "name": "Serbian dinar",
+                "symbol": "дин."
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Serbian"],
+        "flag": "🇷🇸",
+        "callingCodes": "+381"
+    },
+    {
+        "commonNames": "South Sudan",
+        "nativeCommonNames": ["South Sudan"],
+        "cca3": "SSD",
+        "currencies": [
+            {
+                "name": "South Sudanese pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇸🇸",
+        "callingCodes": "+211"
+    },
+    {
+        "commonNames": "São Tomé and Príncipe",
+        "nativeCommonNames": ["São Tomé e Príncipe"],
+        "cca3": "STP",
+        "currencies": [
+            {
+                "name": "São Tomé and Príncipe dobra",
+                "symbol": "Db"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Portuguese"],
+        "flag": "🇸🇹",
+        "callingCodes": "+239"
+    },
+    {
+        "commonNames": "Suriname",
+        "nativeCommonNames": ["Suriname"],
+        "cca3": "SUR",
+        "currencies": [
+            {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Dutch"],
+        "flag": "🇸🇷",
+        "callingCodes": "+597"
+    },
+    {
+        "commonNames": "Slovakia",
+        "nativeCommonNames": ["Slovensko"],
+        "cca3": "SVK",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Slovak"],
+        "flag": "🇸🇰",
+        "callingCodes": "+421"
+    },
+    {
+        "commonNames": "Slovenia",
+        "nativeCommonNames": ["Slovenija"],
+        "cca3": "SVN",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Slovene"],
+        "flag": "🇸🇮",
+        "callingCodes": "+386"
+    },
+    {
+        "commonNames": "Sweden",
+        "nativeCommonNames": ["Sverige"],
+        "cca3": "SWE",
+        "currencies": [
+            {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Swedish"],
+        "flag": "🇸🇪",
+        "callingCodes": "+46"
+    },
+    {
+        "commonNames": "Eswatini",
+        "nativeCommonNames": ["Eswatini", "eSwatini"],
+        "cca3": "SWZ",
+        "currencies": [
+            {
+                "name": "Swazi lilangeni",
+                "symbol": "L"
+            },
+            {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Swazi"],
+        "flag": "🇸🇿",
+        "callingCodes": "+268"
+    },
+    {
+        "commonNames": "Sint Maarten",
+        "nativeCommonNames": ["Sint Maarten", "Saint-Martin", "Sint Maarten"],
+        "cca3": "SXM",
+        "currencies": [
+            {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English", "French", "Dutch"],
+        "flag": "🇸🇽",
+        "callingCodes": "+1721"
+    },
+    {
+        "commonNames": "Seychelles",
+        "nativeCommonNames": ["Sesel", "Seychelles", "Seychelles"],
+        "cca3": "SYC",
+        "currencies": [
+            {
+                "name": "Seychellois rupee",
+                "symbol": "₨"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Seychellois Creole", "English", "French"],
+        "flag": "🇸🇨",
+        "callingCodes": "+248"
+    },
+    {
+        "commonNames": "Syria",
+        "nativeCommonNames": ["سوريا"],
+        "cca3": "SYR",
+        "currencies": [
+            {
+                "name": "Syrian pound",
+                "symbol": "£"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇸🇾",
+        "callingCodes": "+963"
+    },
+    {
+        "commonNames": "Turks and Caicos Islands",
+        "nativeCommonNames": ["Turks and Caicos Islands"],
+        "cca3": "TCA",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇹🇨",
+        "callingCodes": "+1649"
+    },
+    {
+        "commonNames": "Chad",
+        "nativeCommonNames": ["تشاد‎", "Tchad"],
+        "cca3": "TCD",
+        "currencies": [
+            {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic", "French"],
+        "flag": "🇹🇩",
+        "callingCodes": "+235"
+    },
+    {
+        "commonNames": "Togo",
+        "nativeCommonNames": ["Togo"],
+        "cca3": "TGO",
+        "currencies": [
+            {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["French"],
+        "flag": "🇹🇬",
+        "callingCodes": "+228"
+    },
+    {
+        "commonNames": "Thailand",
+        "nativeCommonNames": ["ประเทศไทย"],
+        "cca3": "THA",
+        "currencies": [
+            {
+                "name": "Thai baht",
+                "symbol": "฿"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Thai"],
+        "flag": "🇹🇭",
+        "callingCodes": "+66"
+    },
+    {
+        "commonNames": "Tajikistan",
+        "nativeCommonNames": ["Таджикистан", "Тоҷикистон"],
+        "cca3": "TJK",
+        "currencies": [
+            {
+                "name": "Tajikistani somoni",
+                "symbol": "ЅМ"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Russian", "Tajik"],
+        "flag": "🇹🇯",
+        "callingCodes": "+992"
+    },
+    {
+        "commonNames": "Tokelau",
+        "nativeCommonNames": ["Tokelau", "Tokelau", "Tokelau"],
+        "cca3": "TKL",
+        "currencies": [
+            {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Samoan", "Tokelauan"],
+        "flag": "🇹🇰",
+        "callingCodes": "+690"
+    },
+    {
+        "commonNames": "Turkmenistan",
+        "nativeCommonNames": ["Туркмения", "Türkmenistan"],
+        "cca3": "TKM",
+        "currencies": [
+            {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Russian", "Turkmen"],
+        "flag": "🇹🇲",
+        "callingCodes": "+993"
+    },
+    {
+        "commonNames": "Timor-Leste",
+        "nativeCommonNames": ["Timor-Leste", "Timór-Leste"],
+        "cca3": "TLS",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Portuguese", "Tetum"],
+        "flag": "🇹🇱",
+        "callingCodes": "+670"
+    },
+    {
+        "commonNames": "Tonga",
+        "nativeCommonNames": ["Tonga", "Tonga"],
+        "cca3": "TON",
+        "currencies": [
+            {
+                "name": "Tongan paʻanga",
+                "symbol": "T$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Tongan"],
+        "flag": "🇹🇴",
+        "callingCodes": "+676"
+    },
+    {
+        "commonNames": "Trinidad and Tobago",
+        "nativeCommonNames": ["Trinidad and Tobago"],
+        "cca3": "TTO",
+        "currencies": [
+            {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇹🇹",
+        "callingCodes": "+1868"
+    },
+    {
+        "commonNames": "Tunisia",
+        "nativeCommonNames": ["تونس"],
+        "cca3": "TUN",
+        "currencies": [
+            {
+                "name": "Tunisian dinar",
+                "symbol": "د.ت"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["Arabic"],
+        "flag": "🇹🇳",
+        "callingCodes": "+216"
+    },
+    {
+        "commonNames": "Turkey",
+        "nativeCommonNames": ["Türkiye"],
+        "cca3": "TUR",
+        "currencies": [
+            {
+                "name": "Turkish lira",
+                "symbol": "₺"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Turkish"],
+        "flag": "🇹🇷",
+        "callingCodes": "+90"
+    },
+    {
+        "commonNames": "Tuvalu",
+        "nativeCommonNames": ["Tuvalu", "Tuvalu"],
+        "cca3": "TUV",
+        "currencies": [
+            {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Tuvaluan"],
+        "flag": "🇹🇻",
+        "callingCodes": "+688"
+    },
+    {
+        "commonNames": "Taiwan",
+        "nativeCommonNames": ["台灣"],
+        "cca3": "TWN",
+        "currencies": [
+            {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Chinese"],
+        "flag": "🇹🇼",
+        "callingCodes": "+886"
+    },
+    {
+        "commonNames": "Tanzania",
+        "nativeCommonNames": ["Tanzania", "Tanzania"],
+        "cca3": "TZA",
+        "currencies": [
+            {
+                "name": "Tanzanian shilling",
+                "symbol": "Sh"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Swahili"],
+        "flag": "🇹🇿",
+        "callingCodes": "+255"
+    },
+    {
+        "commonNames": "Uganda",
+        "nativeCommonNames": ["Uganda", "Uganda"],
+        "cca3": "UGA",
+        "currencies": [
+            {
+                "name": "Ugandan shilling",
+                "symbol": "Sh"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English", "Swahili"],
+        "flag": "🇺🇬",
+        "callingCodes": "+256"
+    },
+    {
+        "commonNames": "Ukraine",
+        "nativeCommonNames": ["Україна"],
+        "cca3": "UKR",
+        "currencies": [
+            {
+                "name": "Ukrainian hryvnia",
+                "symbol": "₴"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Ukrainian"],
+        "flag": "🇺🇦",
+        "callingCodes": "+380"
+    },
+    {
+        "commonNames": "United States Minor Outlying Islands",
+        "nativeCommonNames": ["United States Minor Outlying Islands"],
+        "cca3": "UMI",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇺🇲",
+        "callingCodes": "+268"
+    },
+    {
+        "commonNames": "Uruguay",
+        "nativeCommonNames": ["Uruguay"],
+        "cca3": "URY",
+        "currencies": [
+            {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇺🇾",
+        "callingCodes": "+598"
+    },
+    {
+        "commonNames": "United States",
+        "nativeCommonNames": ["United States"],
+        "cca3": "USA",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇺🇸",
+        "callingCodes": "+1201, 202, 203, 205, 206, 207, 208, 209, 210, 212, 213, 214, 215, 216, 217, 218, 219, 220, 223, 224, 225, 227, 228, 229, 231, 234, 239, 240, 248, 251, 252, 253, 254, 256, 260, 262, 267, 269, 270, 272, 274, 276, 279, 281, 283, 301, 302, 303, 304, 305, 307, 308, 309, 310, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 323, 325, 326, 327, 330, 331, 332, 334, 336, 337, 339, 341, 346, 347, 351, 352, 360, 361, 364, 380, 385, 386, 401, 402, 404, 405, 406, 407, 408, 409, 410, 412, 413, 414, 415, 417, 419, 423, 424, 425, 430, 432, 434, 435, 440, 442, 443, 445, 447, 448, 458, 463, 464, 469, 470, 475, 478, 479, 480, 484, 500, 501, 502, 503, 504, 505, 507, 508, 509, 510, 512, 513, 515, 516, 517, 518, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 549, 550, 551, 552, 553, 554, 556, 557, 558, 559, 561, 562, 563, 564, 566, 567, 569, 570, 571, 572, 573, 574, 575, 577, 578, 580, 582, 585, 586, 588, 589, 601, 602, 603, 605, 606, 607, 608, 609, 610, 612, 614, 615, 616, 617, 618, 619, 620, 623, 626, 628, 629, 630, 631, 636, 640, 641, 646, 650, 651, 656, 657, 659, 660, 661, 662, 667, 669, 678, 679, 680, 681, 682, 689, 700, 701, 702, 703, 704, 706, 707, 708, 710, 712, 713, 714, 715, 716, 717, 718, 719, 720, 724, 725, 726, 727, 730, 731, 732, 734, 737, 740, 743, 747, 754, 757, 760, 762, 763, 765, 769, 770, 771, 772, 773, 774, 775, 779, 781, 785, 786, 801, 802, 803, 804, 805, 806, 808, 810, 812, 813, 814, 815, 816, 817, 818, 820, 826, 828, 830, 831, 832, 838, 839, 840, 843, 845, 847, 848, 850, 854, 856, 857, 858, 859, 860, 862, 863, 864, 865, 870, 872, 878, 901, 903, 904, 906, 907, 908, 909, 910, 912, 913, 914, 915, 916, 917, 918, 919, 920, 925, 928, 929, 930, 931, 934, 936, 937, 938, 940, 941, 943, 945, 947, 948, 949, 951, 952, 954, 956, 959, 970, 971, 972, 973, 975, 978, 979, 980, 983, 984, 985, 986, 989"
+    },
+    {
+        "commonNames": "Uzbekistan",
+        "nativeCommonNames": ["Узбекистан", "O‘zbekiston"],
+        "cca3": "UZB",
+        "currencies": [
+            {
+                "name": "Uzbekistani soʻm",
+                "symbol": "so'm"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Russian", "Uzbek"],
+        "flag": "🇺🇿",
+        "callingCodes": "+998"
+    },
+    {
+        "commonNames": "Vatican City",
+        "nativeCommonNames": ["Vaticano", "Vaticanæ"],
+        "cca3": "VAT",
+        "currencies": [
+            {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "region": "Europe",
+        "languages": ["Italian", "Latin"],
+        "flag": "🇻🇦",
+        "callingCodes": "+3906698, 79"
+    },
+    {
+        "commonNames": "Saint Vincent and the Grenadines",
+        "nativeCommonNames": ["Saint Vincent and the Grenadines"],
+        "cca3": "VCT",
+        "currencies": [
+            {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇻🇨",
+        "callingCodes": "+1784"
+    },
+    {
+        "commonNames": "Venezuela",
+        "nativeCommonNames": ["Venezuela"],
+        "cca3": "VEN",
+        "currencies": [
+            {
+                "name": "Venezuelan bolívar soberano",
+                "symbol": "Bs.S."
+            }
+        ],
+        "region": "Americas",
+        "languages": ["Spanish"],
+        "flag": "🇻🇪",
+        "callingCodes": "+58"
+    },
+    {
+        "commonNames": "British Virgin Islands",
+        "nativeCommonNames": ["British Virgin Islands"],
+        "cca3": "VGB",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇻🇬",
+        "callingCodes": "+1284"
+    },
+    {
+        "commonNames": "United States Virgin Islands",
+        "nativeCommonNames": ["United States Virgin Islands"],
+        "cca3": "VIR",
+        "currencies": [
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "region": "Americas",
+        "languages": ["English"],
+        "flag": "🇻🇮",
+        "callingCodes": "+1340"
+    },
+    {
+        "commonNames": "Vietnam",
+        "nativeCommonNames": ["Việt Nam"],
+        "cca3": "VNM",
+        "currencies": [
+            {
+                "name": "Vietnamese đồng",
+                "symbol": "₫"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Vietnamese"],
+        "flag": "🇻🇳",
+        "callingCodes": "+84"
+    },
+    {
+        "commonNames": "Vanuatu",
+        "nativeCommonNames": ["Vanuatu", "Vanuatu", "Vanuatu"],
+        "cca3": "VUT",
+        "currencies": [
+            {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["Bislama", "English", "French"],
+        "flag": "🇻🇺",
+        "callingCodes": "+678"
+    },
+    {
+        "commonNames": "Wallis and Futuna",
+        "nativeCommonNames": ["Wallis et Futuna"],
+        "cca3": "WLF",
+        "currencies": [
+            {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["French"],
+        "flag": "🇼🇫",
+        "callingCodes": "+681"
+    },
+    {
+        "commonNames": "Samoa",
+        "nativeCommonNames": ["Samoa", "Sāmoa"],
+        "cca3": "WSM",
+        "currencies": [
+            {
+                "name": "Samoan tālā",
+                "symbol": "T"
+            }
+        ],
+        "region": "Oceania",
+        "languages": ["English", "Samoan"],
+        "flag": "🇼🇸",
+        "callingCodes": "+685"
+    },
+    {
+        "commonNames": "Yemen",
+        "nativeCommonNames": ["اليَمَن"],
+        "cca3": "YEM",
+        "currencies": [
+            {
+                "name": "Yemeni rial",
+                "symbol": "﷼"
+            }
+        ],
+        "region": "Asia",
+        "languages": ["Arabic"],
+        "flag": "🇾🇪",
+        "callingCodes": "+967"
+    },
+    {
+        "commonNames": "South Africa",
+        "nativeCommonNames": [
+            "South Africa",
+            "South Africa",
+            "Sewula Afrika",
+            "Afrika-Borwa",
+            "Afrika Borwa",
+            "Ningizimu Afrika",
+            "Aforika Borwa",
+            "Afrika Dzonga",
+            "Afurika Tshipembe",
+            "Mzantsi Afrika",
+            "Ningizimu Afrika"
+        ],
+        "cca3": "ZAF",
+        "currencies": [
+            {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        ],
+        "region": "Africa",
+        "languages": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Northern Sotho",
+            "Southern Sotho",
+            "Swazi",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ],
+        "flag": "🇿🇦",
+        "callingCodes": "+27"
+    },
+    {
+        "commonNames": "Zambia",
+        "nativeCommonNames": ["Zambia"],
+        "cca3": "ZMB",
+        "currencies": [
+            {
+                "name": "Zambian kwacha",
+                "symbol": "ZK"
+            }
+        ],
+        "region": "Africa",
+        "languages": ["English"],
+        "flag": "🇿🇲",
+        "callingCodes": "+260"
+    },
+    {
+        "commonNames": "Zimbabwe",
+        "nativeCommonNames": [
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe",
+            "Zimbabwe"
+        ],
+        "cca3": "ZWE",
+        "currencies": [
+            {
+                "name": "Botswana pula",
+                "symbol": "P"
+            },
+            {
+                "name": "Chinese yuan",
+                "symbol": "¥"
+            },
+            {
+                "name": "Euro",
+                "symbol": "€"
+            },
+            {
+                "name": "British pound",
+                "symbol": "£"
+            },
+            {
+                "name": "Indian rupee",
+                "symbol": "₹"
+            },
+            {
+                "name": "Japanese yen",
+                "symbol": "¥"
+            },
+            {
+                "name": "United States dollar",
+                "symbol": "$"
+            },
+            {
+                "name": "South African rand",
+                "symbol": "Rs"
+            },
+            {
+                "name": "Zimbabwean bonds",
+                "symbol": "$"
+            }
+        ],
+        "region": "Africa",
+        "languages": [
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Khoisan",
+            "Ndau",
+            "Northern Ndebele",
+            "Chewa",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zimbabwean Sign Language"
+        ],
+        "flag": "🇿🇼",
+        "callingCodes": "+263"
+    }
+]

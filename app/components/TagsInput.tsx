@@ -51,6 +51,7 @@ export const TagsInput = React.forwardRef<HTMLInputElement, InputProps>(
         ))}
         <input
           type={type}
+          placeholder="Add tag..."
           onKeyDown={handleKeyDown}
           className="w-full ml-2 bg-transparent placeholder:text-muted-foreground focus-visible:ring-0 focus:outline-none"
           ref={ref}

@@ -1,4 +1,5 @@
 import type { MetaFunction } from "@remix-run/node";
+import { CountrySelector } from "~/components/CountrySelector";
 import { SimpleNumberInput } from "~/components/NumberInput";
 import { TagsInput } from "~/components/TagsInput";
 
@@ -17,6 +18,9 @@ export default function Index() {
       </div>
       <div className="max-w-64">
         <TagsInput className="border-black" />
+      </div>
+      <div className="max-w-64">
+        <CountrySelector onSelect={(country) => console.log(country)} />
       </div>
     </div>
   );
